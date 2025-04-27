@@ -85,7 +85,7 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-![ex04-message](./img/ex04-message.png)
+![alt text](img/img.png)
 
 
 # RESULT:
